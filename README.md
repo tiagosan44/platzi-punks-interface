@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Platzi punks
+
+You can check this project [here](https://bafybeibdk6q25ts7mngskvrba664gllhjfmgvmghiii5kulybzh66um5ta.ipfs.infura-ipfs.io/#/). This can be also checked throgh any public gateway for [IPFS](https://ipfs.github.io/public-gateway-checker/), replacing project hash "bafybeibdk6q25ts7mngskvrba664gllhjfmgvmghiii5kulybzh66um5ta". It is deployed at descentrlized file system and it comunicates with a smart contract deployed in ethereum testnet called rinkeby.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
